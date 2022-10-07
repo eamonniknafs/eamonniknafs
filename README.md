@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eamonniknafs
 - 👀 I’m interested in Machine Learning, Offensive Cybersecurity, and Systems/SWE
-- 🌱 I’m currently learning handwriting OCR techniques, Threat Hunting, and Serverless PWAs.
+- 🌱 I’m currently learning handwriting OCR techniques, c2 frameworks & adversary emulation, and Serverless PWAs.
 - 💞️ I’m looking to collaborate on ML projects!
 - 📫 Send me a message on [my website](https://eamonniknafs.com). 
 
