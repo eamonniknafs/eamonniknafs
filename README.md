@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eamonniknafs
-- 👀 I’m interested in Machine Learning, Security Research, and Full-Stack SWE
+- 👀 I’m interested in Security Research, Software Engineering, and Machine Learning
 - 🌱 I’m currently learning handwriting OCR techniques, adversary emulation & pentesting, and serverless PWAs.
 - 💞️ I’m looking to collaborate on data science and security projects!
 - 📫 Send me a message on [my website](https://eamonniknafs.com). 
