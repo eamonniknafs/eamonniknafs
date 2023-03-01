@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eamonniknafs
-- 👀 I’m interested in Artificial Intelligence and Security Research.
-- 🌱 I’m currently learning about transformers, reinformcent learning, and network security.
-- 💞️ I’m looking to collaborate on AI and security projects!
+- 👀 I’m interested in artificial intelligence and machine learning.
+- 🌱 I’m currently learning about decision transformers, masked autoencoders, and model robustness.
+- 💞️ I’m looking to collaborate on AI projects!
 - 📫 Send me a message on [my website](https://eamonniknafs.com). 
 
 <!---
