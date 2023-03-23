@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eamonniknafs
 - 👀 I’m interested in artificial intelligence/machine learning and security research.
-- 🌱 I’m currently learning about decision transformers, masked autoencoders, and model robustness.
+- 🌱 I’m currently learning about decision transformers, masked autoencoders, and adversarial machine learning.
 - 💞️ I’m looking to collaborate on AI and cybersecurity projects!
 - 📫 Send me an email to **en (at) bu (dot) edu** or message on [my website](https://eamonniknafs.com).
 - 🔐 My PGP public key is available for download [here](https://keys.openpgp.org/search?q=en%40bu.edu).
