@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eamonniknafs
 - 👀 I’m interested in artificial intelligence/machine learning and security research.
-- 🌱 I’m currently learning about generative AI (Stable Diffusion, LLMs) and vision (CLIP, BLIP, ViT) projects. I am specifically interested in multimodal, ensamble, and augmentation research. 
+- 🌱 I’m currently learning about LLMs as agents and multimodal learning.
 - 💞️ I’m looking to collaborate on AI/ML and cybersecurity projects!
 - 📫 Send me an email to **en (at) bu (dot) edu** or message on [my website](https://eamonniknafs.com).
 - 🔐 My PGP public key is available for download [here](https://keys.openpgp.org/search?q=en%40bu.edu).
