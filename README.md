@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eamonniknafs
-- 👀 I’m interested in artificial intelligence and security research.
-- 🌱 I’m currently learning about red teaming and model alignment/safety.
-- 💞️ I’m looking to collaborate on AI and security projects!
+- 👀 I’m interested in AI/ML safety/security, responsibilty, and fundimental research.
+- 🌱 I’m currently learning about scaled evals.
+- 💞️ I’m looking to meet people working on and learning about these topics!
 - 📫 Send me an email to **en (at) bu (dot) edu** or message on [my website](https://eamonniknafs.com).
 - 🔐 My PGP public key is available for download [here](https://keys.openpgp.org/search?q=en%40bu.edu).
 
