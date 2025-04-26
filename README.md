@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eamonniknafs
-- 👀 I’m interested in AI/ML safety/security, responsibilty, and fundimental research.
+- 👀 I’m interested in AI/ML safety, responsibilty, and alignment research.
 - 🌱 I’m currently learning about scaled evals.
 - 💞️ I’m looking to meet people working on and learning about these topics!
 - 📫 Send me an email to **en (at) bu (dot) edu** or message on [my website](https://eamonniknafs.com).
