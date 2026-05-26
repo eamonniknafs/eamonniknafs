@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Eamon.
-- 🧠 I work on ML for LLM safety, evaluations, and responsibility at YouTube.
-- 🌱 Lately I’ve been learning more about large-scale eval design and drift detection.
-- 👀 I’m especially interested in AI alignment and safety.
+- 🧠 I work on AI / ML safety reseach engineering at Apple.
+- 🌱 Lately I’ve been learning more about complex agentic evals and synthetic data generation.
+- 👀 I’m especially interested in automating measurment science while ensuring diversity.
 - 💬 Always happy to meet people working on or exploring these topics.
-- 📫 Reach me via email (en (at) bu (dot) edu) or through [my website](https://eamonniknafs.com).
+- 📫 Reach me via email (en (at) bu (dot) edu).
 - 🔐 My PGP public key is available for download [here](https://keys.openpgp.org/search?q=en%40bu.edu).
 
 <!---
