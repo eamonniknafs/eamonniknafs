@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eamon.
 - 🧠 I work on AI / ML safety reseach engineering at Apple.
 - 🌱 Lately I’ve been learning more about complex agentic evals and synthetic data generation.
-- 👀 I’m especially interested in measurment science, safeguards, and alignment.
+- 👀 I’m especially interested in measurement science, safeguards, and alignment.
 - 💬 Always happy to meet people working on or exploring these topics.
 - 📫 Reach me via email (en (at) bu (dot) edu).
 - 🔐 My PGP public key is available for download [here](https://keys.openpgp.org/search?q=en%40bu.edu).
