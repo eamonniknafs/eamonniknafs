@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eamon.
-- 🧠 I work on AI / ML safety reseach engineering at Apple.
+- 🧠 I work on AI / ML safety engineering at Apple.
 - 🌱 Lately I’ve been learning more about complex agentic evals and synthetic data generation.
 - 👀 I’m especially interested in measurement science, safeguards, and alignment.
 - 📫 Reach me via email (en (at) bu (dot) edu).
